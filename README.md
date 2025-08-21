@@ -50,12 +50,4 @@ Before submitting a pull request, ensure that your changes:
 
 Thank you for your support and contributions!
 
-##  Get in Touch
 
-Thank you for exploring the Netflix Homepage Clone! If you have any questions, suggestions, or feedback, feel free to reach out to me via GitHub:
-
-
-##  All the best! 
-
-
-[![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Himanshu3412/Weather_Forecast)
