@@ -54,8 +54,8 @@ Thank you for your support and contributions!
 
 Thank you for exploring the Netflix Homepage Clone! If you have any questions, suggestions, or feedback, feel free to reach out to me via GitHub:
 
-- GitHub: [Himanshu3412](https://github.com/Himanshu3412)
 
 ##  All the best! 
+
 
 [![built with love](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/Himanshu3412/Weather_Forecast)
